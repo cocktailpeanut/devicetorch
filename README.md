@@ -1,3 +1,9 @@
+# devicetorch
+
+![img.png](img.png)
+
+get torch device in one line
+
 # Install
 
 ```
